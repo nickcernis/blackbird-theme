@@ -1,0 +1,21 @@
+{
+    "name": "blackbird-theme",
+    "displayName": "blackbird-theme",
+    "description": "The high-contrast dark theme for spellcasters",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blackbird",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Blackbird-color-theme.json"
+            }
+        ]
+    }
+}
