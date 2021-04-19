@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "blackbird-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <img src="https://github.com/nickcernis/blackbird-theme/images/blackbird-logo.png" alt="Blackbird Theme">
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p align="center">The Blackbird Theme for <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</p>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+--- 
+## The high-contrast dark theme for spellcasters
 
-**Enjoy!**
+![Screenshot showing JavaScript highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/images/blackbird-vsc-js.png)
+
+![Screenshot showing JSON highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/images/blackbird-vsc-json.png)
+
+![Screenshot showing Rust highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/images/blackbird-vsc-rust.png)
+
+### Why try Blackbird?
+
+- **High readability** with a contrast ratio of 6:1 or better for editor text.
+- **A small palette** to reduce visual overload in the editor.
+- **A unified appearance** with a coherent background color for the editor, sidebar and other panes.
