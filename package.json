@@ -1,14 +1,32 @@
 {
     "name": "blackbird-theme",
-    "displayName": "blackbird-theme",
-    "description": "The high-contrast dark theme for spellcasters",
-    "version": "0.0.1",
+    "displayName": "Blackbird Theme",
+    "description": "The high-contrast dark theme for spellcasters.",
+    "author": "Nick Cernis",
+    "license": "MIT",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nickcernis/blackbird-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nickcerni/blackbird-theme/issues"
+    },
+    "homepage": "https://github.com/nickcernis/blackbird-theme/",
     "engines": {
         "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "blackbird",
+        "dark",
+        "high-contrast",
+        "theme",
+        "color-theme"
+    ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
