@@ -27,6 +27,7 @@
         "color-theme"
     ],
     "icon": "icon.png",
+    "publisher": "NickCernis",
     "contributes": {
         "themes": [
             {
