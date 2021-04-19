@@ -7,11 +7,11 @@
 --- 
 ## The high-contrast dark theme for spellcasters
 
-![Screenshot showing JavaScript highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/blob/main/images/blackbird-vsc-js.png)
+![Screenshot showing JavaScript highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/images/blackbird-vsc-js.png)
 
-![Screenshot showing JSON highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/blob/main/images/blackbird-vsc-json.png)
+![Screenshot showing JSON highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/images/blackbird-vsc-json.png)
 
-![Screenshot showing Rust highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/blob/main/images/blackbird-vsc-rust.png)
+![Screenshot showing Rust highlighting.](https://github.com/nickcernis/blackbird-theme/blob/main/images/blackbird-vsc-rust.png)
 
 ### Why try Blackbird?
 
