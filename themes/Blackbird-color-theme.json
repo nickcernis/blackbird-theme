@@ -38,6 +38,8 @@
 		"tab.inactiveBackground": "#011528",
 		"titleBar.activeBackground": "#011528",
 		"titleBar.inactiveBackground": "#011528",
+		"editorGutter.modifiedBackground": "#039e9c",
+		"editorGutter.addedBackground": "#79efc4",
 	},
 	"tokenColors": [
 		{

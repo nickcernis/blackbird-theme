@@ -6,7 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.2] - 2020-04-21
 
-- Improve list background hover colour.
+- Improve list background hover colors.
+- Correct editor gutter git highlight colors.
 
 ## [0.1.1] - 2020-04-19
 
