@@ -40,6 +40,11 @@
 		"titleBar.inactiveBackground": "#011528",
 		"editorGutter.modifiedBackground": "#039e9c",
 		"editorGutter.addedBackground": "#79efc4",
+		"tab.inactiveForeground": "#8695ae",
+		"breadcrumb.foreground": "#8695ae",
+		"titleBar.inactiveForeground": "#8695ae",
+		"tab.hoverBackground": "#00304b",
+		"tab.hoverForeground": "#ffffff",
 	},
 	"tokenColors": [
 		{
