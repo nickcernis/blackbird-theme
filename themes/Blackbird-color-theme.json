@@ -28,6 +28,7 @@
 		"input.background": "#00304b",
 		"list.hoverBackground": "#00273d",
 		"list.inactiveSelectionBackground": "#00273d",
+		"list.focusBackground": "#00466e",
 		"sideBar.background": "#011528",
 		"sideBarSectionHeader.background": "#00304b",
 		"statusBar.background": "#011528",
