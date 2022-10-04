@@ -2,6 +2,11 @@
 
 All notable changes to the "blackbird-theme" extension will be documented in this file.
 
+## [0.1.3] - 2022-10-04
+
+- Improve TSX highlighting.
+- Adjust JSX highlighting.
+
 ## [0.1.2] - 2020-04-21
 
 - Improve list background hover colors.
