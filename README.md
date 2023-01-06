@@ -1,10 +1,17 @@
 <p align="center">
+  <strong>Discontinued</strong> — I recommend <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">Night Owl</a>.
+</p>
+
+---
+
+<p align="center">
   <img src="https://github.com/nickcernis/blackbird-theme/blob/main/images/blackbird-logo.png?raw=true" alt="Blackbird Theme">
 </p>
 
 <p align="center">The <a href="https://marketplace.visualstudio.com/items?itemName=NickCernis.blackbird-theme">Blackbird Theme for Visual Studio Code</a>.</p>
 
---- 
+---
+
 ## The high-contrast dark theme for spellcasters
 
 ### Why try Blackbird?
